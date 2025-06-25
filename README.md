@@ -10,17 +10,6 @@ A React + TypeScript web application for displaying and filtering user listings 
 - Responsive and accessible UI with loading states
 - Type-safe with TypeScript
 
-## Screenshots
-
-![Screen1](/public/col-test.png)
-![Screen1](/public/lang-test.png)
-![Screen1](/public/col-void.png)
-![Screen1](/public/order-test.png)
-![Screen1](/public/order-test2.png)
-![Screen1](/public/null-val1.png)
-![Screen1](/public/null-val2.png)
-
-
 ## Tech Stack
 
 - React + TypeScript
